@@ -18,6 +18,10 @@ Operators are symbols that facilitate mathematical operations.
 ## Logical Operators
 Operators are symbols that facilitate logical operations.
    - Example: !, &&, ||.
+
+## Comparison Operators
+Comparison operators are used in logical statements to determine equality or difference between variables or values.
+   - Example: ===, !==, >, <
      
 ## Conditional || Controll Flow
 Conditional control flow in JavaScript involves making decisions in your code based on certain conditions. It allows your program to execute different blocks of code depending on whether a given condition is true or false.
