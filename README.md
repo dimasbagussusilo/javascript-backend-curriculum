@@ -11,9 +11,16 @@ Values are entities manipulated, changed, or used to create other values.
 Data types represent specific categories of values.
    - Example: Number, string, boolean, and others.
 
-## Operators
+## Math Operators
 Operators are symbols that facilitate mathematical operations.
    - Example: *, -, !, +.
+
+## Logical Operators
+Operators are symbols that facilitate logical operations.
+   - Example: !, &&, ||.
+     
+## Conditional || Controll Flow
+Conditional control flow in JavaScript involves making decisions in your code based on certain conditions. It allows your program to execute different blocks of code depending on whether a given condition is true or false.
 
 ## Loops
 Loops involve repeating tasks in the same sequence under specific conditions.
