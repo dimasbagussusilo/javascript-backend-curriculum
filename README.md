@@ -11,6 +11,10 @@ Values are entities manipulated, changed, or used to create other values.
 Data types represent specific categories of values.
    - Example: Number, string, boolean, and others.
 
+## Other Data Types
+Other Data types represent specific categories of complex values.
+   - Example: Array ( [] ) or Object ( {} ).
+
 ## Math Operators
 Operators are symbols that facilitate mathematical operations.
    - Example: *, -, !, +.
